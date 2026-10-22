@@ -1,0 +1,28 @@
+{
+  "timezone": "Europe/Chisinau",
+  "balance": {
+    "base_url": "http://djv-com.net:3000/v1/pv",
+    "allow_insecure_http": false,
+    "username": "YOUR_BALANCE_USERNAME",
+    "password": "YOUR_BALANCE_PASSWORD",
+    "meter_ids": [],
+    "granularity": "daily",
+    "hourly_time_evidence": "",
+    "gas_kwh_per_m3": null,
+    "gas_conversion_evidence": ""
+  },
+  "salus": {
+    "base_url": "https://openapi-eu.salusconnect.io",
+    "email": "YOUR_SALUS_EMAIL",
+    "password": "YOUR_SALUS_PASSWORD",
+    "device_ids": [],
+    "initial_lookback_days": 7,
+    "temperature_interpretations": {}
+  },
+  "context": {
+    "apartment_area_m2": null,
+    "boiler_type": "",
+    "boiler_flow_temperature_c": null,
+    "notes": ""
+  }
+}

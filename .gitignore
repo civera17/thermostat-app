@@ -1,0 +1,18 @@
+/config*.json
+!/config.example.json
+/exports/
+/heating-export
+*.test
+.DS_Store
+# Downloaded apps, decompiler output, and investigation working files.
+/artifacts/
+
+# Local secrets and temporary diagnostics.
+.env
+.env.*
+.secrets*
+*.pem
+*.key
+*.p12
+*.pfx
+*.log

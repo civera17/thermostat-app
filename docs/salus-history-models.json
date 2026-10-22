@@ -1,0 +1,218 @@
+{
+  "AJSQ605RF": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "ALTHRCU800": [
+    "online_status"
+  ],
+  "ALTHRSQ800WRF": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "AO10": [],
+  "AO30": [],
+  "AO600": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "AO600RF": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "Arjonstop": [],
+  "AWC_Z": [],
+  "CB12RF_IT600": [],
+  "CB12RF_Z3": [],
+  "CSB600": [],
+  "DI600": [],
+  "ECM600": [],
+  "EL600T": [
+    "heating_setpoint"
+  ],
+  "FC600": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "FC600NH": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "HTR_RF_20_": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "HTRP_RF_50_": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "HTRS_RF_30_": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "IT400TX": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "it600HW": [],
+  "it600HW_AC": [],
+  "it600HWNH": [],
+  "it600HWNH_AC": [],
+  "it600MINITRV": [],
+  "it600MINITRVNH": [],
+  "it600Receiver": [],
+  "it600Repeater": [],
+  "it600ThermHW": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "it600ThermHW_AC": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "it600ThermHWNH": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "it600ThermHWNH_AC": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "it600WC": [],
+  "it600WCNH": [],
+  "IT700TX": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "IT800TX": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "KEPZB_112": [],
+  "MS600": [],
+  "MS610": [],
+  "NTSQ605RF": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "NTSW600": [],
+  "NTVS41": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "OS600": [],
+  "PS600": [],
+  "RCU800": [
+    "online_status"
+  ],
+  "RE600": [],
+  "RS600": [],
+  "RSQ800WRF": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "RX30RF": [],
+  "SAL3AG1ATGW": [],
+  "SAL3AG1GW": [],
+  "SARCB12GW": [
+    "connected"
+  ],
+  "SARI40GW": [
+    "connected"
+  ],
+  "SARW40GW": [],
+  "SAU2AG1_GW": [],
+  "SAWZ600GW": [
+    "connected"
+  ],
+  "SB600": [],
+  "SIR600": [],
+  "SIRZB_110": [],
+  "SmokeSensor_EM": [],
+  "SP600": [],
+  "SPE600": [],
+  "SQ605RF_WB_": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "SQ610": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "SQ610_WB_": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "SQ610NH": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "SQ610NH_WB_": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "SQ610RF": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "SQ610RF_WB_": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "SQ610RFNH": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "SQ610RFNH_WB_": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "SQ610RFNH1": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "SR600": [],
+  "SW600": [],
+  "TRV3RF": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "TS600": [
+    "current_temperature",
+    "heating_setpoint",
+    "running_state"
+  ],
+  "TS600HW": [],
+  "WLS600": [],
+  "ZB_MotionSensor_S00000001": []
+}

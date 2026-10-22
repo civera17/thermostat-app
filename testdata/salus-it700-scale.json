@@ -1,0 +1,25 @@
+{
+  "model": "IT700TX",
+  "evidence": "Synthetic independent per-property scale example; not live API evidence or a calibration claim.",
+  "details": {
+    "temperature_display_mode": "celsius",
+    "current_temperature": 22.4,
+    "heating_setpoint": 22
+  },
+  "latest_history": {
+    "current_temperature": {
+      "at": "2026-01-12T10:00:00Z",
+      "old_value": 22.2,
+      "value": 22.4
+    },
+    "heating_setpoint": {
+      "at": "2026-01-12T09:00:00Z",
+      "old_value": 21.5,
+      "value": 22
+    }
+  },
+  "running_state": {
+    "heating": false,
+    "cooling": false
+  }
+}

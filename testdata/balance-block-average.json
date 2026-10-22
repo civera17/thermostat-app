@@ -1,0 +1,29 @@
+{
+  "evidence": "Synthetic gas comparison averages. Their decreases are not cumulative-counter resets.",
+  "data": [
+    {
+      "pdate": "2026-10-01T00:00:00Z",
+      "ai_day": "1.2",
+      "aa_day": "0.6",
+      "fai_day": "1",
+      "faa_day": "1",
+      "bi_day": "21",
+      "ba_day": "20",
+      "fbi_day": "1",
+      "fba_day": "1",
+      "no_data": "f"
+    },
+    {
+      "pdate": "2026-10-02T00:00:00Z",
+      "ai_day": "0.8",
+      "aa_day": "0.5",
+      "fai_day": "1",
+      "faa_day": "1",
+      "bi_day": "21.5",
+      "ba_day": "20.5",
+      "fbi_day": "1",
+      "fba_day": "1",
+      "no_data": "f"
+    }
+  ]
+}

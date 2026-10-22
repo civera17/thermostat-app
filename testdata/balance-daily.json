@@ -1,0 +1,8 @@
+{
+  "request_status": "success",
+  "data": [
+    {"pdate":"2026-10-01T00:00:00Z","ai_day":"3.25","aa_day":"100.0","fai_day":"1","bi_day":"20.5","fbi_day":"1","ba_day":"19.5","fba_day":"1","no_data":"f"},
+    {"pdate":"2026-10-02T00:00:00Z","ai_day":"--","aa_day":"101.0","fai_day":"0","no_data":"t"},
+    {"pdate":"2026-10-03T00:00:00Z","ai_day":0,"aa_day":"2.0","fai_day":"1"}
+  ]
+}
